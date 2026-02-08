@@ -11,7 +11,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Dobrodružství z krypty",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
