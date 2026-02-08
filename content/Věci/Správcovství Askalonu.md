@@ -1,0 +1,1 @@
+Glejt na to, že nám patří [[Sarzakova věž]] a okolí 3 km

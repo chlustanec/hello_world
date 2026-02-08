@@ -1,0 +1,4 @@
+---
+alias: [Jakochobotnici]
+tag: [astrál]
+---

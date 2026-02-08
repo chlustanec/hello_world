@@ -1,0 +1,1 @@
+Království: [[Othion]] [[Agaron]] [[Galad]]
