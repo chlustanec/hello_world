@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "krypta-wiki.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian", "_template/**", "_template", "index.md"],
     defaultDateType: "modified",
     theme: {
