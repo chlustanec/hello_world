@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "krypta-wiki.vercel.app",
+    baseUrl: "dobrodruzstvi-z-krypty.bilku.cz",
     ignorePatterns: ["private", "templates", ".obsidian", "_template/**", "_template"],
     defaultDateType: "modified",
     theme: {
