@@ -1,3 +1,7 @@
+---
+title: Všechny questy
+---
+
 [[Quest 1 - Ruka boží]]
 [[Quest 2 - Sarzakova věž]]
 [[Quest 3 - Křišťál]]
