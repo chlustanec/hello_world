@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "krypta-wiki.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian", "_template/**", "_template", "index.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_template/**", "_template"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

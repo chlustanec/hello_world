@@ -1,6 +1,8 @@
 ---
-title: Všechny questy
+title: Domů
 ---
+
+# Krypta Wiki
 
 [[Quest 1 - Ruka boží]]
 [[Quest 2 - Sarzakova věž]]
