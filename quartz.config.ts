@@ -9,14 +9,14 @@ import { PageLayout } from "./quartz/cfg"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Dobrodružství z krypty",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "cs-CZ",
     baseUrl: "dobrodruzstvi-z-krypty.bilku.cz",
     ignorePatterns: ["private", "templates", ".obsidian", "_template/**", "_template"],
     defaultDateType: "modified",
